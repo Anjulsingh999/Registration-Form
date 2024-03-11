@@ -2,7 +2,7 @@
 # Submit a Form to Google Sheets | Demo
 
 This repository provides a demonstration of creating an HTML form that stores submitted data in Google Sheets using plain JavaScript (ES6), Google Apps Script, Fetch, and FormData.
-Reference GitHub Link- (https://github.com/jamiewilson/form-to-google-sheets)
+
 ## Instructions
 
 ### 1. Create a new Google Sheet
@@ -160,6 +160,12 @@ write also another way
   ...
 </script>
 ```
+
+
+
+Reference GitHub Link- (https://github.com/jamiewilson/form-to-google-sheets)
+
+video Reference Link- https://youtu.be/a8Om25FbaJA?si=M3LMpWZF4bSShZ5p
 
 ## Feedback and Contributions
 
